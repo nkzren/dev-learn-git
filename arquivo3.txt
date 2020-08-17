@@ -1,1 +1,1 @@
-outra modificacao em outra branch na branch main
+outra modificacao em outra branch com conflito
